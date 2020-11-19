@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TallerUnisimon2020</string>
+    <string name="txtEmail">Digite Email</string>
+    <string name="txtClave">Digite Clave</string>
+    <string name="txtBoton">Inicio</string>
+    <string name="txtOlvidoClave">Olvido su Clave,</string>
+    <string name="txtRecuperarClave">Recuperar Aquí</string>
+    <string name="txtNotieneUsuario">No tiene Usuario</string>
+    <string name="txtCrearUsuario">Crear Aquí</string>
+    <string name="txtBotonCrear">Crear</string>
+    <string name="title">Don Pedro</string>
+    <string name="descripcion">Viveres y Abarrotes</string>
+    <string name="horario">6-9</string>
+</resources>
